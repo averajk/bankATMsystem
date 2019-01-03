@@ -1,0 +1,11 @@
+Joe Banks Dallas TX 123-4567 123456 1234 100.00
+Kathy Lewis Austin TX 456-7890 098765 4321 99.00
+David Cook Nacogdoches TX 345-9876 123123 1254 10000.00
+Debbie McComber Lafayette LA 456-7890 098765 4321 13.34
+Tyler Adams Seattle WA 345-1234 112233 0129 23.56
+Jackson Byron Ruidoso NM 678-0987 331100 2345 7.98
+Juan Bruno Allen TX 321-1234 425100 6754 2.31
+Skyler Lexington Magnolia TX 654-1234 333222 3322 123.45
+Carol Tisdale Pittsburg PA 932-3456 999876 9991 200.00
+Peter Holmes Albany NY 234-1234 112211 1212 23.67
+admin Jill Banks Dallas TX 549-4587 admin admin
